@@ -1,3 +1,5 @@
+-- Martin Šebesta
+
 -- Tvorba tabulek
 
 CREATE OR REPLACE TABLE t_martin_šebesta_projekt_SQL_primary_final AS
